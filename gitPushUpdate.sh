@@ -20,4 +20,4 @@ fi
 git add .
 git commit -m "$NextCommitNumber"
 git remote add origin git@github.com:raspi-chromecast-box/SpotifyBrowserToken.git
-git push origin master
+git push origin master -f
