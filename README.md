@@ -8,6 +8,10 @@ libasound2 libpangocairo-1.0-0 libatk-bridge2.0-dev libgtk-3-0 -y
 ```
 
 ```
+sudo python3 -m pip install pyppeteer SpotifyBrowserToken
+```
+
+```
 if __name__ == '__main__':
 	from pathlib import Path
 	import json
