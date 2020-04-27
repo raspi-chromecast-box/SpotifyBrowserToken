@@ -1,7 +1,0 @@
-README.md
-setup.py
-SpotifyBrowserToken.egg-info/PKG-INFO
-SpotifyBrowserToken.egg-info/SOURCES.txt
-SpotifyBrowserToken.egg-info/dependency_links.txt
-SpotifyBrowserToken.egg-info/top_level.txt
-spotify_browser_token/__init__.py
